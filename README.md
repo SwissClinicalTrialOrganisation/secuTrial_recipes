@@ -8,6 +8,7 @@ Basic recipes:
 
 - [Beginners guide](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/beginner_howto)
 - Setup new eCRF - TODO
+- [Print CRF](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/print_CRF)
 - [Enabling productive mode](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/enable_productive_mode)
 - [Score calculation](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/score_calculation)
 - [Create user logins](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/create_user_logins)
