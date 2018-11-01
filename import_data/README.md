@@ -22,7 +22,10 @@ An importable example project is available [here](https://github.com/SwissClinic
 
 ![confimp](https://github.com/PatrickRWright/SCTO/blob/master/DM/secuTrial/recipes/import_data/fig/config_import.png "confimp")
 
-4. select the form for which you would like to perfom an import
+4. Navigate to the form for which you would like to perfom an import
+
+![confimpform](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/import_data/fig/import_format_form.png "confimpform")
+
 5. select "Edit import formats"
 6. "New import format"
 7. configure your import format according to the example below
