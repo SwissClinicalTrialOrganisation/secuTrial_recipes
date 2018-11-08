@@ -34,7 +34,7 @@ if ($50$ == 1) {
 
 Such scripts can be used within all HTML active fields in the FormBuilder.
 
-![jslab](hhttps://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/decode_display_variables/fig/javascript_label.png "jslab")
+![jslab](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/decode_display_variables/fig/javascript_label.png "jslab")
 
 Now the display shows the decoded value.
 
