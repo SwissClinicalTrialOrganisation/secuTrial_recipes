@@ -8,17 +8,17 @@ In some cases you may be asked to display values of variables in a form that hav
 captured in a different form. A simple example is a Yes/No radiobutton. 
 In the background "Yes" is commonly coded as a "1" and "No" as a "0".
 
-![radiojanein](https://github.com/PatrickRWright/secuTrial-recipes/blob/master/JavaScript/decode_display_variables/fig/yes_no.png "radiojanein")
+![radiojanein](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/decode_display_variables/fig/yes_no.png "radiojanein")
 
 secuTrial allows you to display this value elsewhere by setting the rule "Display value from ..."
 within a "Layout-Dummy" item. The placeholder (e.g. $50$) variable gives you access to the value. 
 
-![dispfrom](https://github.com/PatrickRWright/secuTrial-recipes/blob/master/JavaScript/decode_display_variables/fig/display_from.png "dispfrom")
+![dispfrom](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/decode_display_variables/fig/display_from.png "dispfrom")
 
 Within HTML active fields of the "Layout-Dummy" the placeholder can be entered.
 However, secuTrial will only display the coded form. This can be problematic especially when more than two options are encoded.
 
-![spender0](https://github.com/PatrickRWright/secuTrial-recipes/blob/master/JavaScript/decode_display_variables/fig/spender0.png "spender0")
+![spender0](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/decode_display_variables/fig/spender0.png "spender0")
 
 JavaScript can remedy such problems. Please note that the placeholder variable is used within the JavaScript code.
 
@@ -34,10 +34,10 @@ if ($50$ == 1) {
 
 Such scripts can be used within all HTML active fields in the FormBuilder.
 
-![jslab](https://github.com/PatrickRWright/secuTrial-recipes/blob/master/JavaScript/decode_display_variables/fig/javascript_label.png "jslab")
+![jslab](hhttps://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/decode_display_variables/fig/javascript_label.png "jslab")
 
 Now the display shows the decoded value.
 
-![spenderinaktiv](https://github.com/PatrickRWright/secuTrial-recipes/blob/master/JavaScript/decode_display_variables/fig/spenderinaktiv.png "spenderinaktiv")
+![spenderinaktiv](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/decode_display_variables/fig/spenderinaktiv.png "spenderinaktiv")
  
 
