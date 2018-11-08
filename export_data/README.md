@@ -11,7 +11,7 @@ be exported from secuTrial. This can be performed with the ExportSearchTool.
 2. Click "Export"
 3. Configure the export according to your needs (example in screenshot below)
 
-![expsetup](https://github.com/PatrickRWright/SCTO/blob/master/DM/secuTrial/recipes/export_data/fig/export_setup.png)
+![expsetup](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/export_data/fig/export_setup.png)
 
 4. "Start Export"
 5. Save your TAN
@@ -24,4 +24,4 @@ be exported from secuTrial. This can be performed with the ExportSearchTool.
 -       the circled arrow for the export that you would like to repeat. The export will be 
 -       supplied with the current data.
 ```
-![expagain](https://github.com/PatrickRWright/SCTO/blob/master/DM/secuTrial/recipes/export_data/fig/export_again.png)
+![expagain](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/export_data/fig/export_again.png)
