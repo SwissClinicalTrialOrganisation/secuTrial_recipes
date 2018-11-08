@@ -3,6 +3,10 @@
 This manual assumes that you are generally familiar with the secuTrial FormBuilder and are now attempting to implement 
 somewhat complex scores.
 
+```diff
+- Note: Starting from secuTrial version 5.5.0.10 a "Score Assistant" is available.
+```
+
 Introduction to the formula
 ------
 
