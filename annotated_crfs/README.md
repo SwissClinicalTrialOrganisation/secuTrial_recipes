@@ -7,7 +7,7 @@ Data users (e.g. statisticians) will often find an annotated version of a CRF us
 
 ![docdos](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/annotated_crfs/fig/docdos0.png "docdos")
 
-3. "Generate print out"
+3. Select "Form annotated CRFs" only
 
 ![genprintout](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/annotated_crfs/fig/docdos.png "genprintout")
 
