@@ -31,7 +31,7 @@ formula source code
 
 The formula is defined as:
 <p align="center">
-  <img src="https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/score_calculation_advanced/fig/gfr_ckd-epi.gif?raw=true"/>
+  <img src="fig/gfr_ckd-epi.gif?raw=true"/>
 </p>
 
 As you can see the formula is made up of several variable parts that depend on the age, gender and skin color. 
@@ -43,11 +43,11 @@ Implementation in secuTrial
 
 Within a secuTrial "Question" a "New item" needs to be created. The type of the item must be "Score". Since the formula centrally differentiates between females and males two "New rules" &rarr; "Calculate score function from ..." need to be created. 
 <br><br><br>
-![iftoplevel](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/score_calculation_advanced/fig/if_toplevel.png "iftoplevel")
+![iftoplevel](fig/if_toplevel.png "iftoplevel")
 <br><br><br>
 The first rule's "Precondition" should be set to recognise if the gender is female (see below image). Equivalently, the second rule's "Precondition" should be set to recognise if the gender is male. 
 <br><br><br>
-![iffemale](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/score_calculation_advanced/fig/if_female.png "iffemale")
+![iffemale](fig/if_female.png "iffemale")
 <br><br><br>
 Thus, the setup now allows to calculate separate scores for females and males. This can be considered as an if-condition that checks for the gender (see red text in above image). 
 
@@ -63,21 +63,21 @@ The "fixed decimal" multiplication factor is 0.011312 which transforms serum cre
 This is a serum creatinine specific factor. Finally, "/= divide value" is set as another and condition and the "fixed decimal"
 is specificed as 0.7 (female) or 0.9 (male).
 
-![helper1](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/score_calculation_advanced/fig/helper_skr_kappa.png "helper1")
+![helper1](fig/helper_skr_kappa.png "helper1")
 
 The calculation of the other helper scores (i.e. min, max, skin color specific factor) should be evident by abstracting from the specific examples that have been provided up to here.
 
 After all helper scores have been implemented they can be merged to the CKD-EPI score. 
 
-![ckdepi](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/score_calculation_advanced/fig/CKD-EPI.png "ckdepi")
+![ckdepi](fig/CKD-EPI.png "ckdepi")
 
 Please note: the helpers all use "Calculate score from ..." while the final CKD-EPI uses "Calculate score function from ...". This is important because "Calculate score function from ..." allows to specify "Power functions" and "Exponential functions".
 
 The calculation of CKD-EPI starts with "+= add value" in which 0.993 is raised to the power ("Exponential function") of the age (see top formula).
 
-![ckdepi-comp1](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/score_calculation_advanced/fig/ckd-epi-component1.png "ckdepi-comp1")
+![ckdepi-comp1](fig/ckd-epi-component1.png "ckdepi-comp1")
 
 The further components are added with "\*= multiply value" and the results of the min and max helper functions need to use "Power function".
 
-![maxpow](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/score_calculation_advanced/fig/max_powered.png "maxpow")
+![maxpow](fig/max_powered.png "maxpow")
 

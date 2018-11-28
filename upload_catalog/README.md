@@ -10,22 +10,22 @@ Certain input data may already be available in a standardized form. In these cas
 5. Select encoding (e.g. UTF-8) and "Upload"
 6. In the following window check entries and make adjustments to the text if needed. "Save and back"
 
-![editcatalog](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/upload_catalog/fig/edit_catalog.png)
+![editcatalog](fig/edit_catalog.png)
 
 #### Include catalog in eCRF:
 1. Within a Form in the FormBuilder create "New question"
 2. Type is IASCatalogGroup
 3. Select your newly uploaded catalog (e.g. med_catalog) and "Save"
 
-![iascataloggroup](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/upload_catalog/fig/iascataloggroup.png)
+![iascataloggroup](fig/iascataloggroup.png)
 
 4. In the CatalogGroup create new items for your catalog entries (e.g. product and family). See below screenshot for family.
 
-![catalogfield](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/upload_catalog/fig/catalogfield.png)
+![catalogfield](fig/catalogfield.png)
 
 5. In DataCapture, your eCRF should now show the following. You can click "Catalog" and a pop-up opens where a selection can be made.
 
-![opencatalog](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/upload_catalog/fig/opencatalog.png)
+![opencatalog](fig/opencatalog.png)
 
 #### Update catalog
 
@@ -41,7 +41,7 @@ Some catalogs may continuously grow or change. Specifically certain medication f
 ``` diff
 - Note: Ideally your update file is formatted in the same way as your original file. 
 ```
-![updatecatalog](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/upload_catalog/fig/update_mapping.png)
+![updatecatalog](fig/update_mapping.png)
 
 7. Changes in the implementation of the eCRF are not needed.
 

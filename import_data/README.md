@@ -20,18 +20,18 @@ An importable example project is available [here](https://github.com/SwissClinic
 2. "New import configuration"
 3. configure your import according to the example below
 
-![confimp](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/import_data/fig/config_import.png "confimp")
+![confimp](fig/config_import.png "confimp")
 
 4. Navigate to the form implementation for which you would like to perfom an import
 
-![confimpform](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/import_data/fig/import_format_form.png "confimpform")
+![confimpform](fig/import_format_form.png "confimpform")
 
 5. select "Edit import formats"
 6. "New import format"
 7. configure your import format according to the example below
 <br>
 
-![impformat](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/import_data/fig/import_format.png "impformat")
+![impformat](fig/import_format.png "impformat")
 
 ```diff
 - Note: In this example we are not setting up "mapping entries". If you have coded data 
