@@ -15,6 +15,7 @@ Basic recipes:
 - [Create email notifications](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/create_email_notification)
 - [Upload catalog](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/upload_catalog)
 - [Data export](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/export_data)
+- [Annotated CRFs](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/annotated_crfs)
 
 Advanced recipes:
 
