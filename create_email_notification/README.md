@@ -13,7 +13,7 @@ In some cases it may be helpful to enable automatic email notifications for cert
 4. Set trigger (e.g. "New patient")
 5. Specify further contents of email to you preferences
 
-![newpatmail](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/create_email_notification/fig/new_pat_email.png)
+![newpatmail](fig/new_pat_email.png)
 
 <br>
 
@@ -24,5 +24,5 @@ In some cases it may be helpful to enable automatic email notifications for cert
 4. Set Triggering form status (e.g. "partly filled", "completely filled")
 5. Execution "only once"
 
-![saemail](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/blob/master/create_email_notification/fig/sae_email.png)
+![saemail](fig/sae_email.png)
 
