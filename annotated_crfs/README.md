@@ -1,6 +1,6 @@
 # How to get annotated CRFs
 
-Data users (e.g. statisticians) will often find an annotated version of a CRF useful. The annotations provide the mapping between the online database and what appears in data exports. Annotated CRFs are very easy to create in SecuTrial.
+Data users (e.g. statisticians) will often find an annotated version of a CRF useful. The annotations provide the mapping between the online database and what appears in data exports. Annotated CRFs are very easy to create in secuTrial.
 
 1. FormBuilder
 2. "Document Dossier"
