@@ -6,19 +6,19 @@ If you would like to contribute a recipe then please name it by the two or three
 
 Basic recipes:
 
-- [Beginners guide](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/beginner_howto)
+- [Beginners guide](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/beginner_howto)
 - [Create new project](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/create_new_project)
 - [Print CRF](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/print_CRF)
-- [Enabling productive mode](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/enable_productive_mode)
-- [Score calculation](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/score_calculation)
-- [Create user logins](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/create_user_logins)
-- [Create email notifications](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/create_email_notification)
-- [Upload catalog](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/upload_catalog)
-- [Data export](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/export_data)
+- [Enabling productive mode](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/enable_productive_mode)
+- [Score calculation](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/score_calculation)
+- [Create user logins](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/create_user_logins)
+- [Create email notifications](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/create_email_notification)
+- [Upload catalog](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/upload_catalog)
+- [Data export](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/export_data)
 - [Annotated CRFs](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/annotated_crfs)
 
 Advanced recipes:
 
-- [Data import](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/import_data)
-- [Complex scores](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/score_calculation_advanced)
-- [Decode display variables](https://github.com/PatrickRWright/SCTO/tree/master/DM/secuTrial/recipes/decode_display_variables)
+- [Data import](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/import_data)
+- [Complex scores](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/score_calculation_advanced)
+- [Decode display variables](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/decode_display_variables)
