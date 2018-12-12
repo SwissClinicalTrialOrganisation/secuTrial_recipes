@@ -5,11 +5,12 @@ In order to help out writing recipes you of course need to know how you can do t
 3. To create a new recipe, first come up with a two to three word description and click "Create new file". (example: create_user_logins)
 4. Type the two to three word description (words are connected via underscores) into to box where it says "Name your file..." followed by "/README.md". This will create a directory for your recipe and initialize the README.md file in which you will write the recipe.
 5. Scroll to the bottom of the page and write a useful commit message. (example: initializing new recipe on user login creation)
-6. To edit the README.md you can click the pen symbol.
-7. In the edit mode you can write your recipe and commit at the bottom of the page. Again with a meaningful commit message. You can use the already available recipes as template to learn Markdown. 
-8. Once you have finished and commited your final changes you can click "New pull request" and then "Create pull request".
-9. In the dialogue that opens you can type an extended description if you would like to and then click "Create pull request" a final time.
-10. Now all you need to do is wait for an administrator to merge your pull request.
+6. Click "Commit new file" to commit your changes.
+7. To edit the README.md you can click the pen symbol (top right).
+8. In the edit mode you can write your recipe and commit at the bottom of the page. Again with a meaningful commit message. You can use the already available recipes as template to learn Markdown. 
+9. Once you have finished and commited your final changes you can click "Pull request" and then "Create pull request".
+10. In the dialogue that opens you can type an extended description if you would like to and then click "Create pull request" a final time.
+11. Now all you need to do is wait for an administrator to merge your pull request.
 
 ``` diff
 - Note: If you would like to initialize a fig directory for figures or screenshots you can do this 
