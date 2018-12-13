@@ -29,6 +29,7 @@ In order to help out writing recipes you of course need to know how you can do t
 9. Once you have finished and commited your final changes you can click "Pull request" and then "Create pull request".
 
 ![pr](fig/pull_req.png "pr")
+
 ![cpr](fig/create_pull_req.png "cpr")
 
 10. In the dialogue that opens you can type an extended description if you would like to and then click "Create pull request" a final time.
