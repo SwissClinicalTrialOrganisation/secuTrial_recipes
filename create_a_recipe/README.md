@@ -1,3 +1,5 @@
+# Create a recipe
+
 In order to help out writing recipes you of course need to know how you can do that. This recipe is intended to show you how to add a new recipe to the SCTO repository without having to use the command line.
 
 1. Create your own fork of the main recipes repository by clicking "Fork" on the top right. The main repository is [here](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes).
