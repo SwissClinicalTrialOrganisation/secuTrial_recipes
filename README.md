@@ -23,3 +23,5 @@ Advanced recipes:
 - [Data import](import_data)
 - [Complex scores](score_calculation_advanced)
 - [Decode display variables](decode_display_variables)
+
+An easier-to-navigate version of this site can be found [here](https://swissclinicaltrialorganisation.github.io/DM_secuTrial_recipes/).
