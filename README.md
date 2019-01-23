@@ -24,4 +24,4 @@ Advanced recipes:
 - [Complex scores](score_calculation_advanced)
 - [Decode display variables](decode_display_variables)
 
-An easier-to-navigate version of this site can be found [here](https://swissclinicaltrialorganisation.github.io/DM_secuTrial_recipes/).
+If you are viewing this on github directly you may prefer the easier-to-navigate version of this site which can be found [here](https://swissclinicaltrialorganisation.github.io/DM_secuTrial_recipes/).
