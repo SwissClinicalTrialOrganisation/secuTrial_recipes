@@ -20,8 +20,8 @@ be exported from secuTrial. This can be performed with the ExportSearchTool.
 8. Save your export locally
 
 ``` diff
-- Note: You can reuse an old export configuration if you click "Export history" and then click 
--       the circled arrow for the export that you would like to repeat. The export will be 
--       supplied with the current data.
+- Note: You can reuse an old export configuration if you click "Export history" 
+-       or "Download" and then click the circled arrow for the export that you 
+-       would like to repeat. The export will be supplied with the current data.
 ```
 ![expagain](fig/export_again.png)
