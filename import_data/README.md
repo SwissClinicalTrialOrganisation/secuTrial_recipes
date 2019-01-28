@@ -6,11 +6,13 @@ This recipe outlines one way to set up a data import into secuTrial. Other set u
 are also possible.
 
 ```diff
-- Note: It is strongly suggested to perform data imports with extreme caution. 
-- Any data already entered for a specific patient and visit combination explicitly
-- and differently specified by the import file will be overwritten and lost. 
-- Hence, empty fields and columns in the import file can cause deletion of 
-- previously entered data.
+- Note: It is strongly suggested to perform data imports 
+-       with extreme caution. Any data already entered 
+-       for a specific patient and visit combination 
+-       explicitly and differently specified by the import
+-       file will be overwritten and lost. Hence, empty 
+-       fields and columns in the import file can cause
+-       deletion of previously entered data.
 ```
 
 An importable example project is available [here](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_data/blob/master/proj_DEM00_Dev_20180910-1701_BONE_MINERAL_DENSITY.zip).
@@ -20,41 +22,45 @@ An importable example project is available [here](https://github.com/SwissClinic
 2. "New import configuration"
 3. configure your import according to the example below
 
-![confimp](fig/config_import.png "confimp")
+    ![confimp](fig/config_import.png "confimp")
 
 4. Navigate to the form implementation for which you would like to perfom an import
 
-![confimpform](fig/import_format_form.png "confimpform")
+    ![confimpform](fig/import_format_form.png "confimpform")
 
 5. select "Edit import formats"
 6. "New import format"
 7. configure your import format according to the example below
-<br>
 
-![impformat](fig/import_format.png "impformat")
+    ![impformat](fig/import_format.png "impformat")
 
-```diff
-- Note: In this example we are not setting up "mapping entries". If you have coded data 
-- you are importing you will need to explicitly map the coding to the secuTrial values. 
-- Alternatively you can decode your data before importing it.
-```
+    ```diff
+    - Note: In this example we are not setting up "mapping 
+    - entries". If you have coded data you are importing 
+    - you will need to explicitly map the coding to the 
+    - secuTrial values. Alternatively you can decode your 
+    - data before importing it.
+    ```
 
 ### Data praparation in R
 
 In order to import data you need to transfer it into a format that is compatible with how you have configured your import routines in secuTrial. For the bone mineral density (bmd) example a short segement of code that prepares the data for import into secuTrial is available [here](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_R/blob/master/demo/secuTrial_lib_demo.R#L2-L52).
 
 ```diff
-- Note: In the header of the produced file (calcium_secuTrial.csv) the data to 
-- be entered into the form is labelled with "bmd.". This marker refers to the 
-- "bmd" specified in in the import format of the form (i.e. point 7 further up in this text).
+- Note: In the header of the produced file 
+- (calcium_secuTrial.csv) the data to be entered into
+- the form is labelled with "bmd.". This marker refers 
+- to the "bmd" specified in in the import format of 
+- the form (i.e. point 7 further up in this text).
 ```
 
 ### Importing your data in the DataCapture
 
 ```diff
-- Note: Large imports may crash your system depending on the amount of resources 
-- you have allocated. Import files can be chunked into smaller files and uploaded
-- bit by bit. Every file needs the same header.
+- Note: Large imports may crash your system depending on the
+- amount of resources you have allocated. Import files can
+- be chunked into smaller files and uploaded bit by bit. 
+- Every file needs the same header.
 ```
 
 1. select "Import" on the top right
