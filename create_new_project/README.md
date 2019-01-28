@@ -3,9 +3,9 @@
 1. Login to the CustomerAdminTool, select the customer area or define a new one. Select "new scheme/neues Schema".
 2. In the AdminTool navigate to the respective customer area and select "Participant/Teilnehmer". Select yourself as administrator and click the checkbox "Can create and edit new projects/Darf Projekte anlegen und editieren".
 
-    ```diff
-    - Note: If the checkbox does not appear, go to the other
-    -       admin accounts and disable the checkbox there.
+    ```
+    Note: If the checkbox does not appear, go to the other
+          admin accounts and disable the checkbox there.
     ```
 
 3. Go to the FormBuilder and create a new project. It is automatically assigned to the new scheme.
