@@ -15,8 +15,8 @@ Before creating accounts it is advisable to create centers and user roles. All t
 3. The setup for an investigator role can look like the following screenshot <br>
 (a further example for monitors is available in the [fig](fig) directory)
 
-![investigatortop](fig/investigator_top.png)
-![investigatorbot](fig/investigator_bottom.png)
+    ![investigatortop](fig/investigator_top.png)
+    ![investigatorbot](fig/investigator_bottom.png)
 
 #### Participants
 
