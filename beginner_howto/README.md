@@ -22,8 +22,8 @@ secuTrial is the software we use to set up electronic case report forms (eCRFs) 
 ical studies/trials. It has a browser based interface both for setup and data acquisition.
 
 ![](https://placehold.it/15/228B22/000000?text=+) setup
-</br>
-![](https://placehold.it/15/1589F0/000000?text=+) productive</span>
+
+![](https://placehold.it/15/1589F0/000000?text=+) productive
 
 The colors are a good orientation and commonly the secuTrial logo in the top left
 will help you assess if you are currently viewing the productive or the development

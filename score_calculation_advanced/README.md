@@ -4,7 +4,8 @@ This manual assumes that you are generally familiar with the secuTrial FormBuild
 somewhat complex scores.
 
 ```diff
-- Note: Starting from secuTrial version 5.5.0.10 a "Score Assistant" is available.
+- Note: Starting from secuTrial version 5.5.0.10 a 
+-       "Score Assistant" is available.
 ```
 
 Introduction to the formula
@@ -30,9 +31,8 @@ formula source code
 -->
 
 The formula is defined as:
-<p align="center">
-  <img src="fig/gfr_ckd-epi.gif?raw=true"/>
-</p>
+
+![gfr_ckd_epi](fig/gfr_ckd-epi.gif "gfr_ckd_epi")
 
 As you can see the formula is made up of several variable parts that depend on the age, gender and skin color. 
 Thus, *kappa* is 0.7 for females and 0.9 for males. Furthermore, *alpha* is -0.329 for females and -0.411 for males.
