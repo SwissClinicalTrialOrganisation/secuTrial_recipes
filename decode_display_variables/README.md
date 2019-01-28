@@ -1,7 +1,8 @@
 # Decoding coded variables with JavaScript in secuTrial 
 
-```diff
-- Note: Starting from secuTrial version 5.5.0.10 this is no longer needed.
+```
+ Note: Starting from secuTrial version 5.5.0.10 this 
+       is no longer needed.
 ```
 
 In some cases you may be asked to display values of variables in a form that have been

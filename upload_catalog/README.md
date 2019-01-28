@@ -38,9 +38,9 @@ Some catalogs may continuously grow or change. Specifically certain medication f
 5. Select the updated file (e.g. [med_catalog_update.csv](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_data/blob/master/med_catalog_update.csv)) and specify the encoding (e.g. UTF-8)
 6. Specify the mapping. "Save and back"
 
-    ``` diff
-    - Note: Ideally your update file is formatted in the
-    -       same way as your original file. 
+    ```
+     Note: Ideally your update file is formatted in the
+           same way as your original file. 
     ```
     ![updatecatalog](fig/update_mapping.png)
 

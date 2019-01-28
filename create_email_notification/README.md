@@ -3,8 +3,8 @@
 In some cases it may be helpful to enable automatic email notifications for certain events. For example emails can be triggered when new patients are entered into the database or an email can be sent when a [serious adverse event](https://en.wikipedia.org/wiki/Serious_adverse_event) (SAE) is recorded.
 
 ```diff
-- Note: Email notifications need to be enabled within 
--       the AdminTool via "Resources" -> "Messages".
+ Note: Email notifications need to be enabled within 
+       the AdminTool via "Resources" -> "Messages".
 ```
 
 ### Setup an email notification:

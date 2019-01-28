@@ -27,15 +27,15 @@
 # Further configurations and visit plan implementation
 
 1. In the FormBuilder: <br>
-    1.1 Select New form family &rightarrow; New form &rightarrow; set the name, check the save checkbox, set the name for the database table. Define at least one question when you like to add a new patient in DataCapture. <br>
+    1.1 Select New form family → New form → set the name, check the save checkbox, set the name for the database table. Define at least one question when you like to add a new patient in DataCapture. <br>
     1.2 Make sure that check of completion is selected. <br>
     1.3 Click on Edit visit plan: Define at least one Initial * / maximal count of planned visits e.g. 1/1 <br>
     1.4 Check the box "Preset entry date with current date". This sets the entry date to the current date when you add a new patient in DataCapture. <br>
     1.5 Click on New visit and name it. <br>
     1.6 Click on the checkbox in Form family for your visit to assign the form to the visit. <br>
-    1.7 Select Edit Reports &rightarrow; New report &rightarrow; Patient Overview <br>
+    1.7 Select Edit Reports → New report → Patient Overview <br>
       
-2. In the AdminTool:Ressources &rightarrow; Find the report for your study &rightarrow; select "Für alle Rollen freigeben"
+2. In the AdminTool:Ressources → Find the report for your study → select "Für alle Rollen freigeben"
 
 3. In DataCapture: Click "New patient"
 
