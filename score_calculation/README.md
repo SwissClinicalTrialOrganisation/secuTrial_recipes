@@ -9,8 +9,8 @@ The formula is defined as:
 BMI = mass [kg] / (height [m])^2
 
     ```diff
-    - Note: Starting from secuTrial version 5.5.0.10 
-    -       a "Score Assistant" is available.
+     - Note: Starting from secuTrial version 5.5.0.10 
+     -       a "Score Assistant" is available.
     ```
 
 Implementation:
