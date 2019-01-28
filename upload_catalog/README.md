@@ -10,22 +10,22 @@ Certain input data may already be available in a standardized form. In these cas
 5. Select encoding (e.g. UTF-8) and "Upload"
 6. In the following window check entries and make adjustments to the text if needed. "Save and back"
 
-![editcatalog](fig/edit_catalog.png)
+    ![editcatalog](fig/edit_catalog.png)
 
 #### Include catalog in eCRF:
 1. Within a Form in the FormBuilder create "New question"
 2. Type is IASCatalogGroup
 3. Select your newly uploaded catalog (e.g. med_catalog) and "Save"
 
-![iascataloggroup](fig/iascataloggroup.png)
+    ![iascataloggroup](fig/iascataloggroup.png)
 
 4. In the CatalogGroup create new items for your catalog entries (e.g. product and family). See below screenshot for family.
 
-![catalogfield](fig/catalogfield.png)
+    ![catalogfield](fig/catalogfield.png)
 
 5. In DataCapture, your eCRF should now show the following. You can click "Catalog" and a pop-up opens where a selection can be made.
 
-![opencatalog](fig/opencatalog.png)
+    ![opencatalog](fig/opencatalog.png)
 
 #### Update catalog
 
@@ -38,10 +38,11 @@ Some catalogs may continuously grow or change. Specifically certain medication f
 5. Select the updated file (e.g. [med_catalog_update.csv](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_data/blob/master/med_catalog_update.csv)) and specify the encoding (e.g. UTF-8)
 6. Specify the mapping. "Save and back"
 
-``` diff
-- Note: Ideally your update file is formatted in the same way as your original file. 
-```
-![updatecatalog](fig/update_mapping.png)
+    ``` diff
+    - Note: Ideally your update file is formatted in the
+    -       same way as your original file. 
+    ```
+    ![updatecatalog](fig/update_mapping.png)
 
 7. Changes in the implementation of the eCRF are not needed.
 
