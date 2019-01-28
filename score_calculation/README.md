@@ -8,10 +8,10 @@ The implementation of a secuTrial score will be demonstrated in this recipe base
 The formula is defined as:
 BMI = mass [kg] / (height [m])^2
 
-    ```diff
-     - Note: Starting from secuTrial version 5.5.0.10 
-     -       a "Score Assistant" is available.
-    ```
+```diff
+- Note: Starting from secuTrial version 5.5.0.10 
+-       a "Score Assistant" is available.
+```
 
 Implementation:
 1. It is assumed that you have already implemented the fields for mass and height. 
