@@ -34,13 +34,13 @@ An importable example project is available [here](https://github.com/SwissClinic
 
     ![impformat](fig/import_format.png "impformat")
 
-    ```diff
-    - Note: In this example we are not setting up "mapping 
-    - entries". If you have coded data you are importing 
-    - you will need to explicitly map the coding to the 
-    - secuTrial values. Alternatively you can decode your 
-    - data before importing it.
-    ```
+```diff
+- Note: In this example we are not setting up "mapping 
+- entries". If you have coded data you are importing 
+- you will need to explicitly map the coding to the 
+- secuTrial values. Alternatively you can decode your 
+- data before importing it.
+```
 
 ### Data praparation in R
 
