@@ -17,6 +17,10 @@ drug <- sample(x=c(rep(x="Verum", times=100), rep(x="Placebo", times=100)), size
  
 # merge the ids and the drugs
 randomization_list <- data.frame(cbind(id, drug))
+
+# save the table
+write.csv(x=randomization_list, file="randomization_list.csv", row.names=FALSE)
+
 ```
 
-The list created from this snippet is saved here as reference.
+The list created from this snippet with the seed "1337" is saved here as reference.
