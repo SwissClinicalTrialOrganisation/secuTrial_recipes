@@ -19,4 +19,4 @@ drug <- sample(x=c(rep(x="Verum", times=100), rep(x="Placebo", times=100)), size
 randomization_list <- data.frame(cbind(id, drug))
 ```
 
-The list created from this snipped is saved here as reference.
+The list created from this snippet is saved here as reference.
