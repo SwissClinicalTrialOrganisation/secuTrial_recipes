@@ -13,15 +13,20 @@ set.seed(1337)
 # generate shuffled list of
 # "Placebo" (n=100) and
 # "Verum" (n=100)
-drug <- sample(x=c(rep(x="Verum", times=100), rep(x="Placebo", times=100)), size=200, replace=FALSE)
+drug <- sample(x=c(rep(x="Verum", times=100), 
+                   rep(x="Placebo", times=100)), 
+               size=200, 
+               replace=FALSE)
  
 # merge the ids and the drugs
 randomization_list <- data.frame(cbind(id, drug))
 
 # save the table
-write.csv(x=randomization_list, file="randomization_list.csv", row.names=FALSE)
-
+write.csv(x=randomization_list, 
+          file="randomization_list.csv",
+          row.names=FALSE)
 ```
 
-The list created from this snippet with the seed "1337" is saved [here](/create_randomization_list/randomization_list.csv)
-as reference.
+The list created from this snippet with the seed "1337" is saved in the 
+[github](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes)
+repository as reference.
