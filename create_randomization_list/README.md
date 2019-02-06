@@ -1,5 +1,5 @@
 Frequently clinical trials intend to compare the differences between two treatment types. Different treatments need to 
-assigned to study patients randomly. The following R code snipped shows how a simple randomization list of 100 unique 
+be assigned to study patients randomly. The following R code snippet shows how a simple randomization list of 100 unique 
 "Verum" and 100 unique "Placebo" entries can be generated.
 
 ``` r
@@ -23,4 +23,5 @@ write.csv(x=randomization_list, file="randomization_list.csv", row.names=FALSE)
 
 ```
 
-The list created from this snippet with the seed "1337" is saved here as reference.
+The list created from this snippet with the seed "1337" is saved [here](/create_randomization_list/randomization_list.csv)
+as reference.
