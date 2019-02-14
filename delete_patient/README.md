@@ -7,17 +7,20 @@ in setup. In the productive environment it is different. You can only remove one
 Here you need to be completely sure that what you are deleting really needs to be removed. 
 
 ```
-Note: Deleting records is permanent can not be undone.
+Note: Deleting records is permanent and can not be undone.
 ```
 
 ![](https://placehold.it/15/228B22/000000?text=+) Deleting in setup:
 
 1. AdminTool
-2. Click "Patients" (can be called differently depenting on the "Design" setup)
-3. If you would like to remove all then click "Cleanup"
+2. Click "Patients" (can be called differently depending on the "Design" setup)
+  ![](fig/patients.png)
+3. If you would like to remove all then click "Cleanup".
+  ![](fig/cleanup.png)
 4. "Select project" and uncheck "List orphaned patients only"
-5. Select all "Remaining patients" and click "->" to stage them for deletion
-6. Click "Delete, confirm "Delete"
+  ![](fig/select_proj_centre.png)
+5. Select all "Remaining patients" and click "->" to stage them for deletion.
+6. Click "Delete" and confirm "Delete".
 
 If you would like to remove individual patients you can follow the 
 description provided below (productive deletion).
