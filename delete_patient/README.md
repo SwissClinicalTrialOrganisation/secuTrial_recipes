@@ -57,12 +57,3 @@ description provided below (productive deletion).
   ![](fig/consent.png)
   
 11. Click "Delete" and confirm "Delete".
-
-
-
-
-
-
-
-
-
