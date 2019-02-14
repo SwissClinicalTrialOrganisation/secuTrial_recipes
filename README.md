@@ -17,6 +17,7 @@ Basic recipes:
 - [Data export](export_data)
 - [Annotated CRFs](annotated_crfs)
 - [Patient overview report](patient_overview_report)
+- [Delete patients/cases](delete_patient)
 
 Advanced recipes:
 
