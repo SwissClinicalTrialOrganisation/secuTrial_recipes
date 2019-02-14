@@ -14,11 +14,17 @@ Note: Deleting records is permanent and can not be undone.
 
 1. AdminTool
 2. Click "Patients" (can be called differently depending on the "Design" setup)
+
   ![](fig/patients.png)
+  
 3. If you would like to remove all then click "Cleanup".
+
   ![](fig/cleanup.png)
+  
 4. "Select project" and uncheck "List orphaned patients only"
+
   ![](fig/select_proj_centre.png)
+  
 5. Select all "Remaining patients" and click "->" to stage them for deletion.
 6. Click "Delete" and confirm "Delete".
 
