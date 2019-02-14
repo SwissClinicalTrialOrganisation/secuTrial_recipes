@@ -10,7 +10,7 @@ Here you need to be completely sure that what you are deleting really needs to b
 Note: Deleting records is permanent and can not be undone.
 ```
 
-![](https://placehold.it/15/228B22/000000?text=+) Deleting in setup:
+![](https://placehold.it/15/228B22/000000?text=+) **Deleting in setup**:
 
 1. AdminTool
 2. Click "Patients" (can be called differently depending on the "Design" setup)
@@ -31,6 +31,6 @@ Note: Deleting records is permanent and can not be undone.
 If you would like to remove individual patients you can follow the 
 description provided below (productive deletion).
 
-![](https://placehold.it/15/1589F0/000000?text=+) Deleting in productive:
+![](https://placehold.it/15/1589F0/000000?text=+) **Deleting in productive**:
 
 
