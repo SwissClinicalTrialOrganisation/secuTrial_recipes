@@ -1,0 +1,27 @@
+# Deleting saved patients/cases
+
+Both in the setup and the productive environment it is occasionally necessary to delete saved patients or cases.
+In the setup environment you may simply want to clean up a multitude of registered records which have become obsolete.
+There is usually hardly any risk involved in deleting records from setup. This is also the reason you can delete in bulk 
+in setup. In the productive environment it is different. You can only remove one record at a time.
+Here you need to be completely sure that what you are deleting really needs to be removed. 
+
+```
+Note: Deleting records is permanent can not be undone.
+```
+
+![](https://placehold.it/15/228B22/000000?text=+) Deleting in setup:
+
+1. AdminTool
+2. Click "Patients" (can be called differently depenting on the "Design" setup)
+3. If you would like to remove all then click "Cleanup"
+4. "Select project" and uncheck "List orphaned patients only"
+5. Select all "Remaining patients" and click "->" to stage them for deletion
+6. Click "Delete, confirm "Delete"
+
+If you would like to remove individual patients you can follow the 
+description provided below (productive deletion).
+
+![](https://placehold.it/15/1589F0/000000?text=+) Deleting in productive:
+
+
