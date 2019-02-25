@@ -21,7 +21,8 @@ Note: Before implementing the randomization make sure you implemented the form i
   3.1 Go to the “Randomization” tab in the upper right corner  
   3.2 Click on “New randomization list”  
   3.3 Select your project  
-  3.4 Upload your randomization list (csv-file): This should include the randomization number and the randomization group. When it is a multiple centre study the client should specify the centre-name as well (the centre name should not be included in the csv-file). Prepare the file with only two columns (“Randomization number” and the “Randomization group”) and be aware of the centre order. Order your numbers by centre names!  
+  3.4 Upload your randomization list (csv-file): This should include the randomization number and the randomization group. When it is a multiple centre study the client should specify the centre-name as well (the centre name should not be included in the csv-file). Prepare the file with only two columns (“Randomization number” and the “Randomization group”) and be aware of the centre order. Order your numbers by centre names!   
+  For further help, read the recipe [create_randomization_list](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_recipes/tree/master/create_randomization_list)    
   3.5 Now you can assign the randomization numbers to the centres.  
   3.6 Under the specific centre in the AdminTool you can also assign the randomization numbers to the centre.  
      
