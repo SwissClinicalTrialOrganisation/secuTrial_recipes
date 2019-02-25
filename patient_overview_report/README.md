@@ -17,7 +17,7 @@
 2. "New report"
 3. Configure as in image below
 
-    ![val_ov_cfg](fig/pvalidation_overview_config.png)
+    ![val_ov_cfg](fig/validation_overview_config.png)
 
 4. AdminTool -> "Resources" -> "Reports" 
 5. Select the report and release either for "all roles" or "selected roles" 
