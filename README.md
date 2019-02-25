@@ -16,7 +16,7 @@ Basic recipes:
 - [Upload catalog](upload_catalog)
 - [Data export](export_data)
 - [Annotated CRFs](annotated_crfs)
-- [Patient overview report](patient_overview_report)
+- [Overview reports](overview_reports)
 - [Delete patients/cases](delete_patient)
 
 Advanced recipes:
