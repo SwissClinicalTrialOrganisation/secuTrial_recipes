@@ -1,4 +1,4 @@
-# Implement an external randomization list into Secutrial
+# Implement an external randomization list
 ```
 Note: Before implementing the randomization make sure you implemented
       the form in which the randomization should be performed.
