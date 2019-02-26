@@ -1,7 +1,8 @@
 # Implement an external randomization list
 ```
-Note: Before implementing the randomization make sure you implemented
-      the form in which the randomization should be performed.
+Note: Before implementing the randomization make sure you
+      implemented the form in which the randomization 
+      should be performed.
 ```
 
 1. Make sure that you are able to randomize in the **CustomerAdminTool**. Therefore:  
