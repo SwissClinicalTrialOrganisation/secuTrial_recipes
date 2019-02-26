@@ -18,7 +18,6 @@ Basic recipes:
 - [Annotated CRFs](annotated_crfs)
 - [Overview reports](overview_reports)
 - [Delete patients/cases](delete_patient)
-- [External randomization](external_randomization_list)
 - [Procedures after release](procedures_after_release)
 
 Advanced recipes:
@@ -27,5 +26,6 @@ Advanced recipes:
 - [Complex scores](score_calculation_advanced)
 - [Decode display variables](decode_display_variables)
 - [Create randomization list](create_randomization_list)
+- [External randomization](external_randomization_list)
 
 If you are viewing this on github directly you may prefer the easier-to-navigate version of this site which can be found [here](https://swissclinicaltrialorganisation.github.io/DM_secuTrial_recipes/).
