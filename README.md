@@ -18,6 +18,8 @@ Basic recipes:
 - [Annotated CRFs](annotated_crfs)
 - [Overview reports](overview_reports)
 - [Delete patients/cases](delete_patient)
+- [External randomization](external_randomization_list)
+- [Procedures after release](procedures_after_release)
 
 Advanced recipes:
 
