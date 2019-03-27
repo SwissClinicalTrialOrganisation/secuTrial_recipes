@@ -1,4 +1,4 @@
-# secuTrial-recipes
+# secuTrial recipes
 
 This repository's purpose is to supply step-by-step recipes for common tasks in secuTrial. As you can see below, the recipes are classified into basic recipes and advanced recipes. The basic recipes are intended to give people who are new to secuTrial a starting point. Advanced recipes can help more experienced users in deploying non-standard setups. 
 
