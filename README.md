@@ -28,4 +28,4 @@ Advanced recipes:
 - [Create randomization list](create_randomization_list)
 - [External randomization](external_randomization_list)
 
-If you are viewing this on github directly you may prefer the easier-to-navigate version of this site which can be found [here](https://swissclinicaltrialorganisation.github.io/DM_secuTrial_recipes/).
+If you are viewing this on github directly you may prefer the easier-to-navigate version of this site which can be found [here](https://swissclinicaltrialorganisation.github.io/secuTrial_recipes/).
