@@ -10,7 +10,7 @@ be exported from secuTrial. This can be performed with the ExportSearchTool.
 
 1. ExportSearchTool
 2. Click "Export"
-3. Configure the export according to your needs (example in screenshot below; note that exporting the audit trail can slow down the export dramatically)
+3. Configure the export according to your needs (example in screenshot below; note that exporting the audit trail can slow down the export dramatically; saving reference values to a separate table can be useful for statistics software)
 
     ![expsetup](fig/export_setup.png)
 
