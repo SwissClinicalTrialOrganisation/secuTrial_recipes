@@ -24,7 +24,9 @@ In the **FormBuilder**:
   * Select Email
   * Under “Form items” →  Questions → select Adverse Event→ Adverse Event Desription
   Make sure to push the “Add” button! (This will deliver the AE description in your Email notification)
-  * Attach forms as PDF: check “Own form”
+  * Attach forms as PDF: check “Own form” 
+
+![sae_notification](fig/ae_sae_form_notification.png)
   
 ``` diff
 Proceed in the same way for the AE notifications in case you need it. 
