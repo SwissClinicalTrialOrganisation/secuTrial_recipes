@@ -1,4 +1,4 @@
-# Create a SAE notification within a AE/SAE form
+# Create a SAE notification
 
 ``` diff
 -When you have two separate forms for AE and SAE then follow 
