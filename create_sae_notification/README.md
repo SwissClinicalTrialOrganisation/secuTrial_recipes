@@ -37,20 +37,18 @@ In the **FormBuilder**:
        the SAE notification.
  ```
 
-# Create an AE notificatioin
+# Create an AE notification
 
 1. Navigate to the item (e.g. radiobutton) which indicates if an SAE is being registered
 
-2. New rule → Generate message if  → “Rule name: New SAE” → New or condition → own item → = equal value → fixed integer → no
+2. New rule → Generate message if  → “Rule name: New AE” → New or condition → own item → = equal value → fixed integer → no
 
-3. Under Message “Define New”: Proceed as for SAE and replace the word SAE by AE.
+3. Under Message “Define New”: Proceed as for SAE (i.e. point 4. above) and replace the word SAE by AE.
 
  
 In the **AdminTool**:
 
 1. Select the "Ressources" tab
 2. Select your project and check the notifications you want to send
-3. Select: “Versenden als” →  interne Nachricht →  
-Select your project →  Email an alle Teilnehmer des Projektes →  Select the role that should receive the message
-
-  
+3. Select: "send as" →  "internal message" →  
+Select your project →  email to all participants of project →  Select the role that should receive the message
