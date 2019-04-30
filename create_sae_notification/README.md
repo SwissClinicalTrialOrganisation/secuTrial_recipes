@@ -1,20 +1,23 @@
 # Create a SAE notification
 
 ``` diff
--When you have two separate forms for AE and SAE then follow 
--the recipe “Create email notifications” → “Emails for specific forms”) 
--for both froms or only for the SAE form.
--Is the SAE documentation included within the AE-form then perform the following steps:
+ Note: If you have two separate forms for AE and SAE 
+       then follow the recipe “Create email notifications” 
+       → “Emails for specific forms”). If the SAE documentation
+       is included within the AE-form then perform the 
+       following steps.
 ```
 
 In the **FormBuilder**:
 
 
-1. Select your AE-form, find the Item “Is a SAE”, select it
+1. Select your AE-form, check the “Is a SAE” checkbox
 
-2. New rule → Generate message if  → “Rule name: New SAE” → New or condition → own item = Yes
+2. Navigate to the item (e.g. radiobutton) which indicates if an SAE is being registered
 
-3. Under Message “Define New”:
+3. New rule → Generate message if  → “Rule name: New SAE” → New or condition → own item → = equal value → fixed integer → yes
+
+4. Under Message “Define New”:
 
   * Internal Title: “New SAE”
   * Execution “only with value changed”
@@ -29,14 +32,18 @@ In the **FormBuilder**:
 ![sae_notification](fig/ae_sae_form_notification.png)
   
 ``` diff
-Proceed in the same way for the AE notifications in case you need it. 
-But normally you will only need the SAE notification.
+ Note: Proceed in the same way for the AE notifications in 
+       case you need it. But normally you will only need 
+       the SAE notification.
  ```
 
-AE notificatioin
-  * Move on to your AE form, find the Item “Is a AE”, select it
-  * New rule “Rule name: New AE” > Generate message if, own item ≠ Yes
-  * Under Message “Define New”: Proceed as for SAE and replace the word by AE.
+# Create an AE notificatioin
+
+1. Navigate to the item (e.g. radiobutton) which indicates if an SAE is being registered
+
+2. New rule → Generate message if  → “Rule name: New SAE” → New or condition → own item → = equal value → fixed integer → no
+
+3. Under Message “Define New”: Proceed as for SAE and replace the word SAE by AE.
 
  
 In the **AdminTool**:
