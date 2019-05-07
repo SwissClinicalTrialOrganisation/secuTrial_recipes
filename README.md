@@ -13,6 +13,7 @@ Basic recipes:
 - [Score calculation](score_calculation)
 - [Create user logins](create_user_logins)
 - [Create email notifications](create_email_notification)
+- [SAE notification](create_sae_notification)
 - [Upload catalog](upload_catalog)
 - [Data export](export_data)
 - [Annotated CRFs](annotated_crfs)
