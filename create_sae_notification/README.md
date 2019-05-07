@@ -4,7 +4,7 @@
  Note: If you have two separate forms for AE and SAE 
        then follow the recipe “Create email notifications” 
        → “Emails for specific forms”). If the SAE 
-       documentationis included within the AE-form 
+       documentation is included within the AE-form 
        then perform the following steps.
 ```
 
