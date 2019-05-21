@@ -37,10 +37,10 @@ In order to help out writing recipes you of course need to know how you can do t
 10. In the dialogue that opens you can type an extended description if you would like to and then click "Create pull request" a final time.
 11. Now all you need to do is wait for an administrator to merge your pull request.
 
-``` diff
-- Note: If you would like to initialize a fig directory for figures or screenshots you can do this 
--       the same way you created your recipe directory. Just navigate to your personal recipe directory
--       click "Create new file" and type "fig/yourimagename.png" and commit this. You can then upload your
--       actual image by navigating to the fig directory and clicking "Upload files". 
--       Then "choose your files" and "Commit changes".
+```
+ Note: If you would like to initialize a fig directory for figures or screenshots you can do this 
+       the same way you created your recipe directory. Just navigate to your personal recipe directory
+       click "Create new file" and type "fig/yourimagename.png" and commit this. You can then upload your
+       actual image by navigating to the fig directory and clicking "Upload files". 
+       Then "choose your files" and "Commit changes".
 ```
