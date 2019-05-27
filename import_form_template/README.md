@@ -16,4 +16,4 @@ Otherwise the newly imported form will get the name with a consecutively number 
 4. select the form family (i.e. of type "Visit" or "Casenode") in the drop-down "forms import into", if needed also select the subform-family where the repetitions are imported to.
 "Finish import"
 
-![importform](fig/import_form.png)
+![importform](fig/example_import.png)
