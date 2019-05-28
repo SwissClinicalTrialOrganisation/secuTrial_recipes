@@ -20,6 +20,7 @@ Basic recipes:
 - [Overview reports](overview_reports)
 - [Delete patients/cases](delete_patient)
 - [Procedures after release](procedures_after_release)
+- [Import form template](import_form_template)
 
 Advanced recipes:
 
