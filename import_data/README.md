@@ -42,7 +42,7 @@ An importable example project is available [here](https://github.com/SwissClinic
  data before importing it.
 ```
 
-### Data praparation in R
+### Data preparation in R
 
 In order to import data you need to transfer it into a format that is compatible with how you have configured your import routines in secuTrial. For the bone mineral density (bmd) example a short segement of code that prepares the data for import into secuTrial is available [here](https://github.com/SwissClinicalTrialOrganisation/DM_secuTrial_R/blob/master/demo/secuTrial_lib_demo.R#L2-L52).
 
