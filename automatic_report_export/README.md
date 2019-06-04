@@ -12,7 +12,7 @@ Note: The automatic transfer of reports is described in
 5. Configure according to your personal specifications.  
 
 ```
-Note: A detailed explanation of how to set the server
+Note: A detailed explanation of how to set up the server
       is beyond the scope of this recipe and should be
       discussed with a systems administrator.
 ```
