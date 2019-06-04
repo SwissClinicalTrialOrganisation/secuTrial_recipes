@@ -26,3 +26,7 @@ Note: A detailed explanation of how to set the server
 10. Click the "export" checkbox
 11. Specify how often the report should be exported.
 12. Specify a file name.
+
+  ![auto_exp_fb](fig/auto_exp_formbuild.png "auto_exp_fb")
+
+The example above will export myfile_name.csv once a day.
