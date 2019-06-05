@@ -37,6 +37,6 @@
       
 2. In the AdminTool:Ressources → Find the report for your study → select "Für alle Rollen freigeben"
 
-3. In DataCapture: Click "New patient"
+3. In DataCapture: Click "New patient" (need enter new patient right)
 
 
