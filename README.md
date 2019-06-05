@@ -8,19 +8,23 @@ Basic recipes:
 
 - [Beginners guide](beginner_howto)
 - [Create new project](create_new_project)
-- [Print CRF](print_CRF)
-- [Enabling productive mode](enable_productive_mode)
-- [Score calculation](score_calculation)
 - [Create user logins](create_user_logins)
+
+- [Import form template](import_form_template)
+- [Overview reports](overview_reports)
+
+
 - [Create email notifications](create_email_notification)
 - [SAE notification](create_sae_notification)
+- [Score calculation](score_calculation)
 - [Upload catalog](upload_catalog)
-- [Data export](export_data)
-- [Annotated CRFs](annotated_crfs)
-- [Overview reports](overview_reports)
 - [Delete patients/cases](delete_patient)
+- [Annotated CRFs](annotated_crfs)
+- [Print CRF](print_CRF)
+- [Enabling productive mode](enable_productive_mode)
+- [Data export](export_data)
 - [Procedures after release](procedures_after_release)
-- [Import form template](import_form_template)
+
 
 Advanced recipes:
 
