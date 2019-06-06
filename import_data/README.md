@@ -23,6 +23,8 @@ An importable example project is available [here](https://github.com/SwissClinic
 3. configure your import according to the example below
 
     ![confimp](fig/config_import.png "confimp")
+    
+    Note: Please check wether pat_id and center should be filled out
 
 4. Navigate to the form implementation for which you would like to perfom an import
 
