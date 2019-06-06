@@ -1,7 +1,7 @@
 # Enabling productive mode for an eCRF 
 
-1. Login into FormBuilder of setup eniviroment(green)<br>
-2. Click on "Release" <br>
+1. Login into FormBuilder of setup environment and select your project(green)<br>
+2. Click on "Release"  in the main FormBuilder overview <br>
 
     ```
     Note: Your FormBuilder account's role needs to have 
