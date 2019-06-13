@@ -12,7 +12,7 @@ In some cases it may be helpful to enable automatic email notifications for cert
 2. In "Messages" click "New message" (Bottom of the page)
 3. Set internal title (e.g. "New patient registered")
 4. Set trigger (e.g. "New patient")
-5. Specify further contents of email to you preferences
+5. Specify further contents of email to your preferences
 
     ![newpatmail](fig/new_pat_email.png)
 
