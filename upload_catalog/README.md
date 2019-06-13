@@ -46,4 +46,4 @@ Some catalogs may continuously grow or change. Specifically certain medication f
 
 7. Changes in the implementation of the eCRF are not needed.
 
-This recipe was tested under Secutrial version 5.5.1.10
+This recipe was tested under secuTrial version 5.5.1.10
