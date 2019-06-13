@@ -52,3 +52,6 @@ In the **AdminTool**:
 2. Select your project and check the notifications you want to send
 3. Select: "send as" →  "internal message" →  
 Select your project →  email to all participants of project →  Select the role that should receive the message
+
+
+This recipe was tested under Secutrial version 5.5.1.10
