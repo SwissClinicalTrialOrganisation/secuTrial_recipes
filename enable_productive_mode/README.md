@@ -17,4 +17,4 @@
 9. Wait over night
  
  
-This recipe was tested under Secutrial version 5.5.1.10
+This recipe was tested under secuTrial version 5.5.1.10
