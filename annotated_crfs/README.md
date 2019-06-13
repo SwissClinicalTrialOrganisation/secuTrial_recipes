@@ -16,4 +16,4 @@ Data users (e.g. statisticians) will often find an annotated version of a CRF us
 6. The bar on the left allows quick navigation amongst the forms.
 
 
-This recipe was tested under Secutrial version 5.5.1.10
+This recipe was tested under secuTrial version 5.5.1.10
