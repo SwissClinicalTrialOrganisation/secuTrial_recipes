@@ -26,4 +26,4 @@ Implementation:
 
     ![scorerule](fig/calculate_score_from.png)
 
-This recipe was tested under secutrial version 5.5.1.10
+This recipe was tested under secuTrial version 5.5.1.10
