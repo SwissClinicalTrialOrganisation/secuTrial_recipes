@@ -15,3 +15,6 @@
 7. "Confirm release"
 8. "Cancel" to return → study should appear in red
 9. Wait over night
+ 
+ 
+This recipe was tested under Secutrial version 5.5.1.10
