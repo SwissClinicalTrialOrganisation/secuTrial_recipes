@@ -19,3 +19,6 @@ Note: check for uniqueness of the form name to be imported
 8. "Finish import"
 
 ![importform](fig/import_form.png)
+
+
+This recipe was tested under Secutrial version 5.5.1.10
