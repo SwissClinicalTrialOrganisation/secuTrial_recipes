@@ -15,4 +15,4 @@ In some cases you may be asked to supply the CRF without having to supply a logi
 5. To view the eCRFs extract the zip file into a dedicated directory.
 6. The individual forms are the html files and can be opened via browser (e.g. firefox, chrome).
 
-
+This recipe was tested under Secutrial version 5.5.1.10
