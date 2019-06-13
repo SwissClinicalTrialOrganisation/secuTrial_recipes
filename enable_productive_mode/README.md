@@ -1,6 +1,6 @@
 # Enabling productive mode for an eCRF 
 
-1. Login into FormBuilder of setup environment and select your project(green)<br>
+1. Login into FormBuilder of setup environment (with green Secutiral-logo) and select your project<br>
 2. Click on "Release"  in the main FormBuilder overview <br>
 
     ```
