@@ -25,3 +25,5 @@ Implementation:
 6. Set the rule up as shown in the following screenshot. i.e. Add the weight value and divide it by the height twice. Then add a new or condition to multiply the value with the fixed integer 10000 to transform the unit from square cm to square meters.
 
     ![scorerule](fig/calculate_score_from.png)
+
+This recipe was tested under Secutrial version 5.5.1.10
