@@ -15,7 +15,7 @@ Note: Before implementing the randomization make sure you
    2.3 Create a new item: type: “Configurable Randomization Button”  
    2.4 Algorithm: “External Randomization (with list import)”  
    2.5 Mark the checkbox "Centre assignment": The client should provide a randomization list that includes randomization numbers that are assigned to the centres (for multiple centre studies).  
-   2.6 Group (arms): Provide the group names (e.g. “Placebo” and “Verum”).  Cave: Named differently in example csv <br>
+   2.6 Group (arms): Provide the group names (e.g. “Intervention” and “Control”).  
    2.7 Ignore the "stratification" checkox.  
    2.8 Leave a message: Inernal Title: Randomization, Trigger: Randomization, Title: Study_name: Randomization of ```<ADD-ID>``` to ```<RANDOM>```, Notes: Text for automatic delivery is checked, contrains Add_ID, Centre and Participant Name and Email  
 
