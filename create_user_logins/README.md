@@ -28,3 +28,6 @@ Before creating accounts it is advisable to create centers and user roles. All t
 4. Optionally specify "Preferred report" in "Preferences"
 5. At the bottom of the page in "Centres" -> "Add project or centre" and specify according to who you are creating to login for. Note: Do not forget to click "Add"
 6. Click "Send credentials via E-Mail" if you would like secuTrial to handle the user notification
+
+
+This recipe was tested under Secutrial version 5.5.1.10
