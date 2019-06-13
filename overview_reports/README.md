@@ -22,7 +22,6 @@
 4. AdminTool -> "Resources" -> "Reports" 
 5. Select the report and release either for "all roles" or "selected roles"
 
-
 ## Query Details
 
 1. FormBuilder -> "Edit reports"
