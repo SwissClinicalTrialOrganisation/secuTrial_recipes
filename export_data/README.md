@@ -29,4 +29,4 @@ be exported from secuTrial. This can be performed with the ExportSearchTool.
 ```
 ![expagain](fig/export_again.png)
 
-This recipe was tested under Secutrial version 5.5.1.10
+This recipe was tested under secuTrial version 5.5.1.10
