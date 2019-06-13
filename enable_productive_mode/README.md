@@ -14,7 +14,7 @@
 6. "Release"
 7. "Confirm release"
 8. "Cancel" to return → study should appear in red
-9. Wait over night
+9. Wait overnight
  
  
 This recipe was tested under secuTrial version 5.5.1.10
