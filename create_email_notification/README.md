@@ -27,4 +27,4 @@ In some cases it may be helpful to enable automatic email notifications for cert
     ![saemail](fig/sae_email.png)
 
 
-This recipe was tested under Secutrial version 5.5.1.10
+This recipe was tested under secuTrial version 5.5.1.10
