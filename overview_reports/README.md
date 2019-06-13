@@ -33,3 +33,4 @@
 4. AdminTool -> "Resources" -> "Reports"
 5. Select the report and release either for "all roles" or "selected roles"
  
+This recipe was tested under Secutrial version 5.5.1.10
