@@ -25,7 +25,7 @@ In the **FormBuilder**:
   * Title:  “STUDY-NAME: SAE Notification of Patient <ADD-ID>”
   * Deselect Lab-ID
   * Select Email
-  * Under “Form items” →  Questions → select Adverse Event→ Adverse Event Desription
+  * Under “Form items” →  Questions → select Adverse Event→ Adverse Event Description
   Make sure to push the “Add” button! (This will deliver the AE description in your Email notification)
   * Attach forms as PDF: check “Own form” 
 
@@ -39,7 +39,7 @@ In the **FormBuilder**:
 
 # Create an AE notification
 
-1. Navigate to the item (e.g. radiobutton) which indicates if an SAE is being registered
+1. Navigate to the item (e.g. radiobutton) which indicates if an SAE is being registered.
 
 2. New rule → Generate message if  → “Rule name: New AE” → New or condition → own item → = equal value → fixed integer → no
 
@@ -48,10 +48,10 @@ In the **FormBuilder**:
  
 In the **AdminTool**:
 
-1. Select the "Ressources" tab
+1. Select the "Resources" tab
 2. Select your project and check the notifications you want to send
 3. Select: "send as" →  "internal message" →  
 Select your project →  email to all participants of project →  Select the role that should receive the message
 
 
-This recipe was tested under Secutrial version 5.5.1.10
+This recipe was tested under secuTrial version 5.5.1.10
