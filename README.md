@@ -19,9 +19,9 @@ Basic recipes:
 - [Annotated CRFs](annotated_crfs)
 - [Print CRF](print_CRF)
 - [Enabling productive mode](enable_productive_mode)
-- [Data export](export_data)
 - [Procedures after release](procedures_after_release)
-
+- [Data export](export_data)
+- [Change export language](change_export_language)
 
 Advanced recipes:
 
@@ -30,5 +30,6 @@ Advanced recipes:
 - [Decode display variables](decode_display_variables)
 - [Create randomization list](create_randomization_list)
 - [External randomization](external_randomization_list)
+- [Automatic report export](automatic_report_export)
 
 If you are viewing this on github directly you may prefer the easier-to-navigate version of this site which can be found [here](https://swissclinicaltrialorganisation.github.io/secuTrial_recipes/).
