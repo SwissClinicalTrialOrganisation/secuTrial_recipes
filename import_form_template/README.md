@@ -1,6 +1,6 @@
 # secuTrail form import
 
-When setting up a CDMA we often need the same or a similar form of another project — examples are "SAE forms" or "standard questionnnaires". Forms in the same secuTrial environment may be copied directly. Forms from CDMAs in other environments need to be exported there (in the FormBuilder "Export/import project setup") and then imported into the CDMA in which the form is needed.
+When setting up a CDMA we often need the same or a similar form of another project — examples are "SAE forms" or "standard questionnaires". Forms in the same secuTrial environment may be copied directly. Forms from CDMAs in other environments need to be exported there (in the FormBuilder "Export/import project setup") and then imported into the CDMA in which the form is needed.
 
 ```
 Note: check for uniqueness of the form name to be imported
@@ -19,3 +19,6 @@ Note: check for uniqueness of the form name to be imported
 8. "Finish import"
 
 ![importform](fig/import_form.png)
+
+
+This recipe was tested under secuTrial version 5.5.1.10

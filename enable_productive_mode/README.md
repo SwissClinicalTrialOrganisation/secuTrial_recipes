@@ -1,7 +1,7 @@
 # Enabling productive mode for an eCRF 
 
-1. FormBuilder (select customer area)
-2. Select (green) version of your database and click "Release" <br>
+1. Login into FormBuilder of setup environment (with green Secutiral-logo) and select your project<br>
+2. Click on "Release"  in the main FormBuilder overview <br>
 
     ```
     Note: Your FormBuilder account's role needs to have 
@@ -14,4 +14,7 @@
 6. "Release"
 7. "Confirm release"
 8. "Cancel" to return → study should appear in red
-9. Wait over night
+9. Wait overnight
+ 
+ 
+This recipe was tested under secuTrial version 5.5.1.10

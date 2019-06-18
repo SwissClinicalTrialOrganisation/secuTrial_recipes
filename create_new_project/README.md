@@ -39,4 +39,10 @@
 
 3. In DataCapture: Click "New patient"
 
+ ```
+    Note: This will be enabled once you edit the participant role.
+          See "create user logins".
+ ```
 
+
+This recipe was tested under secuTrial version 5.5.1.10

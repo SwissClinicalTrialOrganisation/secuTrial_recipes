@@ -117,3 +117,5 @@ previously defined configuration you can click the ”Export again” (round arr
 the left. This will recreate the export with the currently entered data. A new export can
 be created by selecting ”Export”. Remember to save your TAN.
 
+
+This recipe was tested under secuTrial version 5.5.1.10

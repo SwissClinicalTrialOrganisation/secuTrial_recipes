@@ -28,3 +28,5 @@ be exported from secuTrial. This can be performed with the ExportSearchTool.
        with the current data.
 ```
 ![expagain](fig/export_again.png)
+
+This recipe was tested under secuTrial version 5.5.1.10

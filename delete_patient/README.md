@@ -57,3 +57,6 @@ description provided below (productive deletion).
   ![](fig/consent.png)
   
 11. Click "Delete" and confirm "Delete".
+
+
+This recipe was tested under secuTrial version 5.5.1.10
