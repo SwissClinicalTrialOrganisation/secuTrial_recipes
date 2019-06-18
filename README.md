@@ -21,6 +21,7 @@ Basic recipes:
 - [Delete patients/cases](delete_patient)
 - [Procedures after release](procedures_after_release)
 - [Import form template](import_form_template)
+- [Change export language](change_export_language)
 
 Advanced recipes:
 
