@@ -7,5 +7,6 @@
   ![exp_lang](fig/export_lang.png "exp_lang")
 
 ``` 
-Note: explain difference e.g. html and data
+Note: Changing the language affects several 
+      files in the export.
 ```
