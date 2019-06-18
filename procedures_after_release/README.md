@@ -26,4 +26,5 @@ After waiting over night for the release of your project continue with the follo
     
 7. Inform the participants about the release of their project and about their user account.
 
+
 This recipe was tested under secuTrial version 5.5.1.10
