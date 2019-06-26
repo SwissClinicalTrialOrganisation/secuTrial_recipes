@@ -30,3 +30,6 @@ Note: A detailed explanation of how to set up the server
   ![auto_exp_fb](fig/auto_exp_formbuild.png "auto_exp_fb")
 
 The example above will export myfile_name.csv once a day.
+
+
+This recipe was tested under secuTrial version 5.5.1.10
