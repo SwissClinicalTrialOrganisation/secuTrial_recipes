@@ -58,8 +58,8 @@ If you do not have an account yet then create one with "New participant".
 3. In DataCapture: Click "New patient"
 
  ```
-    Note: This will be enabled once you edit the participant role.
-          See "create user logins".
+    Note: This will be enabled once you edit the 
+          participant role. See "create user logins".
  ```
 
 
