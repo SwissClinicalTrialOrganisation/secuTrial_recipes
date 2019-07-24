@@ -4,12 +4,14 @@ Assuming you have a running instance of secuTrial and you have access to all of 
 start setting up a completely new project from scratch.
 
 1. Login to the CustomerAdminTool, select the customer area or define a new one. Select "new scheme/neues Schema". Create the adminuser (your account for the AdminTool) as well as the "new scheme/neues Schema".
-2. Login to the AdminTool, set your password. In the AdminTool navigate to the respective customer area and select "Participant/Teilnehmer". Select yourself as administrator and click the checkbox "Can create and edit new projects/Darf Projekte anlegen und editieren".  
+2. Login to the AdminTool, set your password. In the AdminTool navigate to the respective customer area and select "Participant/Teilnehmer". Select yourself as administrator and click the checkbox "May create and edit projects". 
+If you do not have an account yet then create one with "New participant".  
 
     ```
-    Note: If the checkbox does not appear, go to the 
-          other admin accounts and disable the 
-          checkbox there.
+    Note: If the checkbox does not appear, check
+          the other accounts list. The account
+          which appears bold with a red "*" needs
+          the checkbox to be unchecked.
     ```
 
 3. Go to the FormBuilder and create a new project. It is automatically assigned to the new scheme.  
@@ -30,7 +32,7 @@ start setting up a completely new project from scratch.
     ```
 
     5.1 Select "centre" and create a "new centre"  
-    5.2 Select "Participants" and choose yourself as admin. Under "Add project or centre" you can choose your project and enable to see the project for all the previously defined centres  
+    5.2 Select "Participants" and open your account settings. Under "Add project or centre" you can choose your project and enable to see the project for all the previously defined centres. You will also need to select a role. Make sure the role is enabled to "Edit project setup" (see Roles).  
 
 6. In the FormBuilder:  
     6.1 Select "Edit configuration". At the level "Additional patient-ID (Add-ID)" enable "instead of Pat-ID" and specify the format: e.g. NNN (Click on set)  
