@@ -30,7 +30,7 @@ start setting up a completely new project from scratch.
     ```
 
     5.1 Select "centre" and create a "new centre"  
-    5.2 Select "participant" and choose yourself as admin. Under "Projekt oder Zentrum hinzufügen" you can choose your project and enable to see the project for all the previously defined centres  
+    5.2 Select "Participants" and choose yourself as admin. Under "Add project or centre" you can choose your project and enable to see the project for all the previously defined centres  
 
 6. In the FormBuilder:  
     6.1 Select "Edit configuration". At the level "Additional patient-ID (Add-ID)" enable "instead of Pat-ID" and specify the format: e.g. NNN (Click on set)  
