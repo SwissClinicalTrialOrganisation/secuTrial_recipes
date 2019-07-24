@@ -16,8 +16,8 @@ start setting up a completely new project from scratch.
 
     ```
     Note: If you are not sure whether to select 
-        "Registry" or "Part project" you should 
-        likely select "Registry".
+          "Registry" or "Part project" you 
+          should likely select "Registry".
     ```
 
 4. Go back to the AdminTool and un-check the checkbox that allows you to create new projects. 
