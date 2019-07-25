@@ -16,6 +16,38 @@ Note: A detailed explanation of how to set up the server
       is beyond the scope of this recipe and should be
       discussed with a systems administrator.
 ```
+<details><summary>More details</summary>
+<p>
+
+Register RSA key for your SFTP server on your secuTrial server:
+1. This can be achieved by adding the SFTP server's RSA key to the ".ssh\known_hosts" file on your secuTrial server.
+2. You can use "ssh-keyscan" to obtain the RSA key of your SFTP server.Create a user on your SFTP server:
+``` bash
+useradd -s /bin/false user
+passwd user# create directories
+# (only this directory will be writable by SFTP)
+mkdir -p /home/user/secutrialexports# set permissions
+chown root:root -R /home/user/
+chmod 755 /home/user/
+chown user:user /home/user/secutrialexports
+chmod 755 /home/user/secutrialexports/
+chmod g+s /home/user/secutrialexports/# edit SSH config
+# (/etc/ssh/sshd_config)
+# ----------------------------------------->8---------------------------------------# [...]
+AllowUsers user
+# [...]# [...]
+# must be at the very end of the file
+Match User user
+   ChrootDirectory /home/user/
+   ForceCommand internal-sftp
+   AllowTCPForwarding no
+   X11Forwarding no
+# ----------------------------------------->8---------------------------------------# restart SSH
+service ssh restart
+```
+
+</p>
+</details>
 
   ![auto_rep_exp_cfg](fig/auto_rep_exp_cfg.png "auto_rep_exp_cfg")
 
