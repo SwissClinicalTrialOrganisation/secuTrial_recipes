@@ -22,6 +22,7 @@ Basic recipes:
 - [Procedures after release](procedures_after_release)
 - [Data export](export_data)
 - [Change export language](change_export_language)
+- [Did you know...](did_you_know)
 
 Advanced recipes:
 
