@@ -16,7 +16,7 @@ Note: A detailed explanation of how to set up the server
       is beyond the scope of this recipe and should be
       discussed with a systems administrator.
 ```
-<details><summary>More details</summary>
+<details><summary>Click here for more details</summary>
 <p>
 
 Register RSA key for your SFTP server on your secuTrial server:
