@@ -13,8 +13,8 @@ Note: The automatic transfer of reports is described in
 
 ```
 Note: A detailed explanation of how to set up the server
-      is beyond the scope of this recipe and should be
-      discussed with a systems administrator.
+      should be discussed with a systems administrator.
+      An example can be found below.
 ```
 <details><summary>Click here for more details</summary>
 <p>
