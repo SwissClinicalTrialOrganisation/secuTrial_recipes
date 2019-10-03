@@ -14,12 +14,26 @@ Note: The automatic transfer of reports is described in
 ```
 Note: A detailed explanation of how to set up the server
       should be discussed with a systems administrator.
-      An example can be found below.
+      An example can be found at the very bottom of the page.
 ```
-<details><summary>Click here for more details</summary>
-<p>
+  ![auto_rep_exp_cfg](fig/auto_rep_exp_cfg.png "auto_rep_exp_cfg")
+
+6. FormBuilder
+7. Select your project of interest.
+8. Click "Edit reports"
+9. Select the free SQL report you would like to export.
+10. Click the "export" checkbox
+11. Specify how often the report should be exported.
+12. Specify a file name.
+
+  ![auto_exp_fb](fig/auto_exp_formbuild.png "auto_exp_fb")
+
+The example above will export myfile_name.csv once a day.
+
+## Server setup example
 
 Register RSA key for your SFTP server on your secuTrial server:  
+
 1. This can be achieved by adding the SFTP server's RSA key to the ".ssh\known_hosts" file on your secuTrial server.  
 2. You can use "ssh-keyscan" to obtain the RSA key of your SFTP server.Create a user on your SFTP server:  
 ``` bash
@@ -46,22 +60,6 @@ Match User user
 service ssh restart
 ```
 
-</p>
-</details>
-
-  ![auto_rep_exp_cfg](fig/auto_rep_exp_cfg.png "auto_rep_exp_cfg")
-
-6. FormBuilder
-7. Select your project of interest.
-8. Click "Edit reports"
-9. Select the free SQL report you would like to export.
-10. Click the "export" checkbox
-11. Specify how often the report should be exported.
-12. Specify a file name.
-
-  ![auto_exp_fb](fig/auto_exp_formbuild.png "auto_exp_fb")
-
-The example above will export myfile_name.csv once a day.
 
 
 This recipe was tested under secuTrial version 5.5.1.10
