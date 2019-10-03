@@ -19,9 +19,9 @@ Note: A detailed explanation of how to set up the server
 <details><summary>Click here for more details</summary>
 <p>
 
-Register RSA key for your SFTP server on your secuTrial server:
-1. This can be achieved by adding the SFTP server's RSA key to the ".ssh\known_hosts" file on your secuTrial server.
-2. You can use "ssh-keyscan" to obtain the RSA key of your SFTP server.Create a user on your SFTP server:
+Register RSA key for your SFTP server on your secuTrial server:  
+1. This can be achieved by adding the SFTP server's RSA key to the ".ssh\known_hosts" file on your secuTrial server.  
+2. You can use "ssh-keyscan" to obtain the RSA key of your SFTP server.Create a user on your SFTP server:  
 ``` bash
 useradd -s /bin/false user
 passwd user# create directories
