@@ -1,4 +1,4 @@
-# Automatic export of secuTrial free SQL reports
+# Automatic export of secuTrial "free SQL reports"
 
 ```
 Note: The automatic transfer of reports is described in 
