@@ -14,7 +14,8 @@ Note: The automatic transfer of reports is described in
 ```
 Note: A detailed explanation of how to set up the server
       should be discussed with a systems administrator.
-      An example can be found at the very bottom of the page.
+      An example can be found at the very bottom of
+      this page.
 ```
   ![auto_rep_exp_cfg](fig/auto_rep_exp_cfg.png "auto_rep_exp_cfg")
 
