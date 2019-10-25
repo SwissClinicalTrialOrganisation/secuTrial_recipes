@@ -2,6 +2,12 @@
 
 This is a list of observations which do not merit a recipe of their own but have proven useful in the past.
 
+- ... that you can compare different productive project setups with each other in the FormBuilder?  
+  first click:  
+  ![proj_setup_compare1](fig/compare_proj_setup1.png "compare_setup_1")  
+  then select versions to compare:  
+  ![proj_setup_compare2](fig/compare_proj_setup2.png "compare_setup_2")
+
 - ... that at the bottom of a form page you can click "Overview Items" for a list of all items in the given form? 
       The variable names are editable in the overview. This is useful if you need to change many variable names.
       
