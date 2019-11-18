@@ -2,6 +2,10 @@
 
 This is a list of observations which do not merit a recipe of their own but have proven useful in the past.
 
+- ... that you can "Generate default-mappings" in the FormBuilder when you "Edit import formats"? This can greatly simplify the process of mapping your import data to the CDMA.  
+  ![gen_def_map](fig/generate_default_mappings.png "gen_def_map")
+
+
 - ... that the FormBuilder allows you to hide items, questions, forms and entire visits in the productive DataCapture?  
   Items and forms:  
   ![hide_in_dc](fig/hide_in_datacapture.png "hide_in_dc")  
