@@ -2,6 +2,14 @@
 
 This is a list of observations which do not merit a recipe of their own but have proven useful in the past.
 
+- ... that the FormBuilder allows you to hide items, questions, forms and entire visits in the productive DataCapture?  
+  Items and forms:  
+  ![hide_in_dc](fig/hide_in_datacapture.png "hide_in_dc")  
+  Visits (Edit visit plan -> right side next to the visits):  
+  ![hide_vis](fig/hide_visit.png "hide_vis")  
+  If data previously entered into hidden elements should be exported or not can be specified in the ExportSearchTool:  
+  ![exp_hidden](fig/hidden_data_exportsearchtool.png "exp_hidden")  
+
 - ... that you can compare different productive project setups with each other in the FormBuilder?  
   first click:  
   ![proj_setup_compare1](fig/compare_proj_setup1.png "compare_setup_1")  
