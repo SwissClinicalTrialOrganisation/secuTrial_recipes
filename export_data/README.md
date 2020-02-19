@@ -34,11 +34,18 @@ in a secuTrial database.
 ![expagain](fig/export_again.png)
 
 **Exporting types of subsets in the data:**  
-The first option to subset is by visit. Thus, towards the top of the form at "Visit:" you may deviate
+* The first option to subset is by visit. Thus, towards the top of the form at "Visit:" you may deviate
 from the default ("all visits") and specify either the "first visit", "last visit" or a "selected visit"
 which will open a drop down allowing you to select the visit of interest.
 
-![subsetvisit](fig/subset_visit.png)
+  ![subsetvisit](fig/subset_visit.png)  
 
+* The second option is to specify subsets of data based on "selected items" in the "Included data" section.
+It is possible to select at form family (e.g. "Bone mineral density"), form (e.g. "Bone mineral density"),
+question (e.g. "Data") or item (e.g. "Age", "Group", "Bone mineral density") resolution. Thus, subset selection
+can go down to the level of selecting individual variables. In the example below only the data for the
+"Bone mineral density" (i.e. \<bmd\> variable) will be exported.
+
+  ![subsetbmd](fig/subset_bmd.png)
 
 This recipe was tested under secuTrial version 5.5.1.10
