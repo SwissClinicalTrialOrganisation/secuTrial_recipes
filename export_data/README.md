@@ -2,9 +2,11 @@
 
 During the course of a clinical trial or at its conclusion data commonly needs to
 be exported from secuTrial. This can be achieved with the ExportSearchTool.
-First we will explain how to run a simple full export of your database. In the second
-part of the recipe we will outline options to export only subsets of the data
-in a secuTrial database.
+First we will explain how to run a simple
+[full export](README.md#full-data-export)
+of your database. In the second part of the recipe we will outline options to 
+[export only subsets](README.md#exporting-subsets-of-the-data)
+of the data in a secuTrial database.
 
 ```
  Note: Your user account's role needs to be enabled 
