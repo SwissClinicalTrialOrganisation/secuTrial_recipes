@@ -1,7 +1,7 @@
 # secuTrial data export
 
 During the course of a clinical trial or at its conclusion data commonly needs to
-be exported from secuTrial. This can be performed with the ExportSearchTool.
+be exported from secuTrial. This can be achieved with the ExportSearchTool.
 First we will explain how to run a simple full export of your database. In the second
 part of the recipe we will outline options to export only subsets of the data
 in a secuTrial database.
@@ -47,5 +47,12 @@ can go down to the level of selecting individual variables. In the example below
 "Bone mineral density" (i.e. \<bmd\> variable) will be exported.
 
   ![subsetbmd](fig/subset_bmd.png)
+
+* Another option is to filter your data based on the status of the forms. This can be specified in the
+"Filter data records" section. The default is to export without any such checks. You could, however,
+choose to export data only from forms which have been "completely filled" as specified below.
+Selecting these options will affect all forms and can not be tailored to individual forms.
+
+  ![filterdatarec](fig/filter_data_rec.png)
 
 This recipe was tested under secuTrial version 5.5.1.10
