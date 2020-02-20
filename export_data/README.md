@@ -11,7 +11,8 @@ in a secuTrial database.
        for exporting (AdminTool).
 ```
 
-**Full data export:**  
+## Full data export
+
 1. ExportSearchTool
 2. Click "Export"
 3. Configure the export according to your needs (example in screenshot below; note that exporting the audit trail can slow down the export dramatically; saving reference values to a separate table can be useful for statistics software)
@@ -33,7 +34,8 @@ in a secuTrial database.
 ```
 ![expagain](fig/export_again.png)
 
-**Exporting types of subsets in the data:**  
+## Exporting subsets of the data
+
 * The first option to subset is by visit. Thus, towards the top of the form at "Visit:" you may deviate
 from the default ("all visits") and specify either the "first visit", "last visit" or a "selected visit"
 which will open a drop down allowing you to select the visit of interest.
