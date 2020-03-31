@@ -32,3 +32,5 @@ This is a list of observations which do not merit a recipe of their own but have
 - ... that you can retrieve a preview, implementation overview or annotated eCRF on the top right in the secuTrial FormBuilder? The preview allows you to view the eCRF without logging in to the DataCapture. The annotated eCRF and implementation add more technical details to the preview. Using the browser search can be useful if you are searching for specific variables in long forms.
 
   ![prev_imp_annoercf](fig/prev_imp_annocrf.png "prev_imp_annoercf")
+  
+- ... that you can import incomplete dates by simply leaving out the information in the import file? i.e. if the import format for a date is set to "dd.MM.yyyy" and you only have the information for the year (e.g. 2006) you put "..2006" in your import file. Note the two dots before the year. They are important. If you have year and month (e.g. December 2006) you can put ".12.2006" in your import file.
