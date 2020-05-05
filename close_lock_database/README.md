@@ -4,9 +4,6 @@
 2. Click "Projects" in the top navigation bar.
 3. Select the project to close/lock from the table.
 4. Click "Close project" on the right hand side of the screen.
-    
-  ![closeproj](fig/close_project.png "closeproj")
-
 5. Confirm closure with your login credentials.
 
 ```
