@@ -20,6 +20,7 @@ Basic recipes:
 - [Print CRF](print_CRF)
 - [Enabling productive mode](enable_productive_mode)
 - [Procedures after release](procedures_after_release)
+- [Close/lock a database](close_lock_database)
 - [Data export](export_data)
 - [Change export language](change_export_language)
 - [Did you know...](did_you_know)
