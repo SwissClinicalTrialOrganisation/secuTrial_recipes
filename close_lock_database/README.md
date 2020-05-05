@@ -7,11 +7,12 @@
     
   ![closeproj](fig/close_project.png "closeproj")
 
-4. Confirm closure with your login credentials.
+5. Confirm closure with your login credentials.
 
-Note:
-You can reopen the project by following the same procedure and
-clicking "Open project" where the "Close project" link was
-placed before.
+```
+Note: You can reopen the project by following the same
+      procedure and clicking "Open project" where the
+      "Close project" link was placed before.
+```
 
 This recipe was tested under secuTrial version 5.5.1.10
