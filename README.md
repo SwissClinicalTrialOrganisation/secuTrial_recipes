@@ -9,6 +9,7 @@ Basic recipes:
 - [Beginners guide](beginner_howto)
 - [Create new project](create_new_project)
 - [Create user logins](create_user_logins)
+- [Transfer roles to productive](role_transfer_productive)
 - [Import form template](import_form_template)
 - [Overview reports](overview_reports)
 - [Create email notifications](create_email_notification)
