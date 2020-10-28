@@ -62,5 +62,15 @@ If you do not have an account yet then create one with "New participant".
           participant role. See "create user logins".
  ```
 
+ ```
+    Note: If you run into the following error 
+          "No pseudonym could be generated.
+          Please try again. If the error persists,
+          please inform your system administration."
+          You can check if the ID you are creating
+          is longer than 20 characters. If yes,
+          you should try and reduce its length.
+ ```
+
 
 This recipe was tested under secuTrial version 5.5.1.10
