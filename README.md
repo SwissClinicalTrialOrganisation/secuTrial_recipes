@@ -23,6 +23,7 @@ Basic recipes:
 - [Procedures after release](procedures_after_release)
 - [Close/lock a database](close_lock_database)
 - [Data export](export_data)
+- [Automatic data export](automatic_data_export)
 - [Change export language](change_export_language)
 - [Did you know...](did_you_know)
 
