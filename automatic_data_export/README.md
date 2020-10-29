@@ -11,6 +11,9 @@ Note: If you have not yet set up an export then you
 ```
 
 5. Specify all fields in the form as required.  
+
+  ![autoexpsetup](fig/setup_auto_export.png)
+
 6. Server URL, User, Password will likely need to be discussed with your local IT admin.
 7. Click "Check connection". If successful, a "Test.txt" file should have been uploaded
    to the place where the export is intended to end up.
