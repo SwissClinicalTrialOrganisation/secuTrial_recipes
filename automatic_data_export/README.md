@@ -53,7 +53,8 @@ Exporting your keys from your "current machine" to an "other machine":
 # On your "current machine"
 # export public key to file john_doe_pub.key
 gpg --export B20479972437334F62D375F901CF5CC22F189BA1 > john_doe_pub.key
-# export private key to file john_doe_priv.key (this will prompt for the password that was used during key generation)
+# export private key to file john_doe_priv.key
+# (this will prompt for the password that was used during key generation)
 gpg --export-secret-keys B20479972437334F62D375F901CF5CC22F189BA1 > john_doe_priv.key
 
 # copy these files to the "other machine" (e.g. with scp)
