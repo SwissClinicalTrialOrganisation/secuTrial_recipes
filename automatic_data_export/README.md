@@ -40,9 +40,16 @@ gpg --full-generate-key
 # uid                      John Doe (John Does PGP Keys) <John.Doe@online_services.com>
 # sub   rsa4096 2020-10-29 [E]
 
+# alternatively it may look something like this (e.g. if you run gpg --list-keys)
+# in this case the relevant ID to proceed with is 2F189BA1
+# pub   4096R/2F189BA1 2020-10-29
+# uid                  John Doe (John Does PGP Keys) <John.Doe@online_services.com>
+# sub   4096R/A3508306 2020-10-29
+
 # show public key, open unencrypted text
 gpg --armor --export B20479972437334F62D375F901CF5CC22F189BA1
-# show private key, open unencrypted text (this will prompt for the password that was used during key generation)
+# show private key, open unencrypted text 
+# (this may prompt for the password that was used during key generation)
 gpg --armor --export-secret-keys B20479972437334F62D375F901CF5CC22F189BA1
 ```
 
@@ -54,7 +61,7 @@ Exporting your keys from your "current machine" to an "other machine":
 # export public key to file john_doe_pub.key
 gpg --export B20479972437334F62D375F901CF5CC22F189BA1 > john_doe_pub.key
 # export private key to file john_doe_priv.key
-# (this will prompt for the password that was used during key generation)
+# (this may prompt for the password that was used during key generation)
 gpg --export-secret-keys B20479972437334F62D375F901CF5CC22F189BA1 > john_doe_priv.key
 
 # copy these files to the "other machine" (e.g. with scp)
