@@ -72,4 +72,6 @@ gpg --import john_doe_pub.key
 gpg --import john_doe_priv.key
 ```
 
+Deleting keys can be achieved with `gpg --delete-keys <ID>` and `gpg --delete-secret-keys <ID>`.
+
 This recipe was tested under secuTrial version 5.6.2.2
