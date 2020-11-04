@@ -70,8 +70,18 @@ gpg --export-secret-keys B20479972437334F62D375F901CF5CC22F189BA1 > john_doe_pri
 gpg --import john_doe_pub.key
 # import the private key to the keyring on the "other machine"
 gpg --import john_doe_priv.key
+# check available keys
+gpg --list-keys
 ```
 
 Deleting keys can be achieved with `gpg --delete-keys <ID>` and `gpg --delete-secret-keys <ID>`.
+
+Decrypting a gpg file:  
+*If you are on a new machine, make sure you imported the public and private keys as described above.*
+
+``` bash
+# may prompt for the password which was set during keypair creation
+gpg --output my_data_archive.zip --decrypt my_data_archive.zip.gpg
+```
 
 This recipe was tested under secuTrial version 5.6.2.2
