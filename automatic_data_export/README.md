@@ -5,14 +5,14 @@
 3. Click "New schedule"
 4. Select a previously set up export.
 
-```
-Note: If you have not yet set up an export then you 
+    ```
+    Note: If you have not yet set up an export then you 
       should have a look at the "Data export" recipe. 
-```
+    ```
 
 5. Specify all fields in the form as required.  
 
-  ![autoexpsetup](fig/setup_auto_export.png)
+    ![autoexpsetup](fig/setup_auto_export.png)
 
 6. Server URL, User, Password will likely need to be discussed with your local IT admin.
 7. Click "Check connection". If successful, a "Test.txt" file should have been uploaded
