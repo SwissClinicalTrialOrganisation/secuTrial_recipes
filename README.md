@@ -25,6 +25,7 @@ Basic recipes:
 - [Data export](export_data)
 - [Automatic data export](automatic_data_export)
 - [Change export language](change_export_language)
+- [Create lookup table](create_lookuptable)
 - [Did you know...](did_you_know)
 
 Advanced recipes:
