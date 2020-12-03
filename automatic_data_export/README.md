@@ -6,8 +6,9 @@
 4. Select a previously set up export.
 
     ```
-    Note: If you have not yet set up an export then you 
-      should have a look at the "Data export" recipe. 
+    Note: If you have not yet set up an
+          export then you should have a
+          look at the "Data export" recipe. 
     ```
 
 5. Specify all fields in the form as required.  
