@@ -7,12 +7,12 @@ You can imagine that one patient (P1) may be treated for pain with Paracetamol,
 while another (P2) is treated with Ibuprofen. Yet another patient (P3) is treated
 for a bacterial infection with penicillin.
 
-P1: Pain -> Paracetamol
-P2: Pain -> Ibuprofen
-P3: Bacterial infection -> penicillin
+* P1: Pain -> Paracetamol  
+* P2: Pain -> Ibuprofen  
+* P3: Bacterial infection -> penicillin  
 
-Hierarchically you can set up two levels. First level defining what the treatment
-is for (e.g. pain) and what it is treated with (e.g. paracetamol).
+Hierarchically you can set up two levels. First, the level defining what the treatment
+is for (e.g. pain) and second what it is treated with (e.g. paracetamol).
 
 1. FormBuilder
 2. Click "Edit lookup tables"
